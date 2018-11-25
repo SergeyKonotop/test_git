@@ -1,5 +1,5 @@
-new
-add text
+new +1
+add text +1
 2nd dev add
 1st dev add 2
 2nd dev add 2
