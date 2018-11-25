@@ -2,3 +2,6 @@ new
 add text
 2nd dev add
 1st dev add 2
+2nd dev add 2
+2nd dev add 3
+>>>>>>> 44a0180e12ef2cf47e2bdbf93866a1d7369f5934
