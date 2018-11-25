@@ -4,3 +4,5 @@ add text
 1st dev add 2
 2nd dev add 2
 2nd dev add 3
+amend
+amend
