@@ -5,4 +5,4 @@ add text
 2nd dev add 2
 2nd dev add 3
 amend
-amend
+1
