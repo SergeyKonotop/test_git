@@ -8,3 +8,4 @@ amend
 1
 2
 3
+add master
