@@ -10,3 +10,4 @@ amend
 3
 add master
 +3 master
+add tag v1.2
