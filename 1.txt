@@ -1,7 +1,7 @@
-new
-add text
-2nd dev add
-1st dev add 2
+new +1
+add text +1
+2nd dev add +2
+1st dev add 2 +2
 2nd dev add 2
 2nd dev add 3
 amend
@@ -10,3 +10,8 @@ amend
 dev 3
 dev 4
 after tag:development
+3
+add master
++3 master
+add tag v1.2
+
