@@ -1,15 +1,15 @@
-new_EXP
+new
 add text
 2nd dev add_NEW_EXP
 1st dev add 2
 2nd dev add 2_NEW_EXP
 2nd dev add 3
-amend_EXP
+amend
 dev 3
 dev 4
 after tag:development
 add master
-+3 master_EXP
++3 master
 add tag v1.2
 
 
