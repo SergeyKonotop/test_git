@@ -1,8 +1,8 @@
 new_EXP
 add text
-2nd dev add
+2nd dev add_NEW_EXP
 1st dev add 2
-2nd dev add 2
+2nd dev add 2_NEW_EXP
 2nd dev add 3
 amend_EXP
 dev 3
